@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="XoGame.App/XoGame.App.csproj" />
+  <Project Path="XoGame.Bluetooth/XoGame.Bluetooth.csproj" />
+  <Project Path="XoGame.Console/XoGame.Console.csproj" />
+  <Project Path="XoGame.Core/XoGame.Core.csproj" />
+  <Project Path="XoGame.Tests/XoGame.Tests.csproj" />
+</Solution>
